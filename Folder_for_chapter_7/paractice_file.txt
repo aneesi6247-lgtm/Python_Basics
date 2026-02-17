@@ -1,0 +1,4 @@
+Hi everyone. 
+ we are learning Fiel (I/O). 
+ using python 
+ in like programming in python
