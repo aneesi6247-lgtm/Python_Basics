@@ -65,7 +65,7 @@ else:
 if (val>val1 and val>val2 and val>val3):
     print("first value is the biggest one")
 elif(val1>val2 and val1>val3):
-    Print("Second value is the biggest one")
+    print("Second value is the biggest one")
 elif(val2>val3):
     print("third value is biggest")
 else:
